@@ -17,6 +17,7 @@ or implied.
 
 import sys
 sys.path.append("./API Quick Reference")
+sys.path.append("/home/joeljos/repos/PythonAnywhere-PoCs/API Quick Reference")
 import API_QuickReference_bot
 from flask import Flask
 from flask import request
