@@ -1,0 +1,9 @@
+**Introduction** : https://umbrella.cisco.com/, https://www.youtube.com/watch?v=FhmGv2Jaerw, https://umbrella.cisco.com/products/features<br/>
+**Overview** : https://www.youtube.com/watch?v=4m4PSXE7huc, https://learn-umbrella.cisco.com/datasheets/cisco-umbrella-at-a-glance, https://developer.cisco.com/umbrella, https://learn-umbrella.cisco.com/<br/>
+**Learning Labs** : https://developer.cisco.com/learning/modules/sevt2018/1-Umbrella-Explained/step/1, https://developer.cisco.com/learning/modules/sevt2018/2-Umbrella-Enforcement-API-Explained/step/1, https://developer.cisco.com/learning/modules/sevt2018/3-HandsOn-Enforcement-API-CustomBlockList/step/1, https://developer.cisco.com/learning/modules/sevt2018/4-Umbrella-Investigate-API-Explained/step/1, https://developer.cisco.com/learning/modules/sevt2018/5-HandsOn-Investigate-API-Hunting/step/1, https://developer.cisco.com/learning/labs?keywords=umbrella<br/>
+**Cisco Live** : https://www.ciscolive.com/c/r/ciscolive/global/on-demand-library.html?search=umbrella#/<br/>
+**Sample Codes** : https://github.com/opendns, https://developer.cisco.com/codeexchange/github/repo/tekgourou/Webex-Teams-Umbrella-Investigate-Bot<br/>
+**API Reference** : https://docs.umbrella.com/enforcement-api/reference/, https://docs.umbrella.com/investigate-api/docs, https://docs.umbrella.com/deployment-umbrella/docs<br/>
+**Sandbox** : api key needed from Cisco Umbrella to access cloud based api portals, https://dcloud2-sng.cisco.com/content/demo/246085?returnPathTitleKey=content-view&isLoggingIn=true<br/>
+**Developer Forum** : https://community.cisco.com/t5/security-discussions/bd-p/j-disc-dev-security<br/>
+**Official Support** : https://umbrella.cisco.com/support<br/>
