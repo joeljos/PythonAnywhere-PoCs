@@ -70,7 +70,7 @@ def getapi_qr(topic):
     script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
     index = None
     topics = []
-    rel_path = "API_Quick_Reference/index.md"
+    rel_path = "Data/index.md"
     abs_file_path = os.path.join(script_dir, rel_path)
     with open(abs_file_path,"r") as file:
         index = file.read()
@@ -81,7 +81,7 @@ def getapi_qr(topic):
         entry = entry.replace(" ","")
         topics.append(entry)
     if(topic in topics):
-        rel_path = "API_Quick_Reference/" + topic + ".md"
+        rel_path = "Data/" + topic + ".md"
         abs_file_path = os.path.join(script_dir, rel_path)
         with open(abs_file_path,"r") as file:
             index = file.read()
