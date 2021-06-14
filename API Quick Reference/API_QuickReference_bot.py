@@ -126,7 +126,7 @@ def spark_webhook(request):
     elif request.method == 'GET':
         message = "<center><img src=\"http://bit.ly/SparkBot-512x512\" alt=\"Spark Bot\" style=\"width:256; height:256;\"</center>" \
                   "<center><h2><b>Congratulations! Your <i style=\"color:#ff8000;\">%s</i> bot is up and running.</b></h2></center>" \
-                  "<center><b><i>Please don't forget to create Webhooks to start receiving events from Cisco Spark!</i></b></center>" % bot_name
+                  "<center><b><i>Please don't forget to create Webhooks to start receiving events from Cisco Webex!</i></b></center>" % bot_name
         return message
 
 def runme(request):

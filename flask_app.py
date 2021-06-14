@@ -29,4 +29,4 @@ def index_fn():
 
 @app.route("/api_quick_reference", methods = ['GET', 'POST'])
 def api_quick_reference_fn():
-    return "Thank you for the visit to API_QR!!"
+    return API_QuickReference_bot.runme(request)
